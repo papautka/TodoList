@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TodoList</string>
+    <string name="justFewStep">Сделай маленький шаг!</string>
+    <string name="textButtonSave">Нажми на кнопку!</string>
+    <string name="textRadioLow">Low</string>
+    <string name="textRadioMedium">Medium</string>
+    <string name="textRadioHigh">High</string>
+</resources>
